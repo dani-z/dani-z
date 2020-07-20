@@ -3,7 +3,7 @@
 ### What I do
 I am a senior software engineer specialised on React and React Native.
 
-At the moment I'm working with @secret-spa
+At the moment I'm working with [@secret-spa](https://github.com/secret-spa/)
 
 Have an idea and need help building it? Shot me an email at hello@dzaremba.com and we can chat
 
