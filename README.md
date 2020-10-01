@@ -1,7 +1,7 @@
 ## Hi there 👋 Happy to see you here
 
 ### What I do
-I am a senior software engineer specialised on React and React Native.
+I am a senior software engineer, focusing on React, React Native, GraphQL, node.
 
 Currently working with [@CarlsbergGBS](https://github.com/CarlsbergGBS).
 
