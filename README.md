@@ -9,6 +9,8 @@ Have an idea and need help building it? Shot me an email at hello@dzaremba.com a
 
 http://dzaremba.com (WIP, of course)
 
+![GitHub Stats Card]
+
 
 <!--
 **dani-z/dani-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
