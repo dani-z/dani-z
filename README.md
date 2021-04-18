@@ -7,7 +7,8 @@ Currently working with [@CarlsbergGBS](https://github.com/CarlsbergGBS).
 
 Have an idea and need help building it? Shot me an email at hello@dzaremba.com and we can chat
 
-http://dzaremba.com (WIP, of course)
+When I'm not coding I like to spend time in nature with the camera in hand.
+http://dzaremba.com
 
 
 <!--
