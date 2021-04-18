@@ -5,7 +5,7 @@ I am a senior software engineer, focusing on React, React Native, GraphQL, node.
 
 Currently working with [@CarlsbergGBS](https://github.com/CarlsbergGBS).
 
-Have an idea and need help building it? Shot me an email at hello@dzaremba.com and we can chat
+Have an idea and need help building it? Send me an email at hello@dzaremba.com and we can chat
 
 When I'm not coding I like to spend time in nature with the camera in hand.
 http://dzaremba.com
