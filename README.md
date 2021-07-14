@@ -1,11 +1,13 @@
 ## Hi there 👋 Happy to see you here
 
 ### What I do
-I am a senior software engineer, focusing on React, React Native, GraphQL, node.
+Founder of [Pixel Bucket](https://pxbucket.com), senior software consultant, focusing on emerging technologies and helping companies build awesome products.
 
-Currently working with [@CarlsbergGBS](https://github.com/CarlsbergGBS).
+Tech tools: React, React Native, GraphQL, node, blockchain
 
-Have an idea and need help building it? Send me an email at hello@dzaremba.com and we can chat
+Currently helping [@CarlsbergGBS](https://github.com/CarlsbergGBS) build some amazing products.
+
+Have an idea and need help building it? Send me an email at hello@pxbucket.com and we can chat
 
 When I'm not coding I like to spend time in nature with the camera in hand.
 http://dzaremba.com
