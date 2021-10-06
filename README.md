@@ -10,7 +10,7 @@ Currently helping [@CarlsbergGBS](https://github.com/CarlsbergGBS) build some am
 Have an idea and need help building it? Send me an email at hello@pxbucket.com and we can chat
 
 When I'm not coding I like to spend time in nature with the camera in hand.
-http://dzaremba.com
+https://dzaremba.com
 
 
 ### Some "fancy" stats
