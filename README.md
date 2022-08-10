@@ -5,7 +5,6 @@ Founder of [Pixel Bucket](https://pxbucket.com), senior software consultant, foc
 
 Tech tools: React, React Native, GraphQL, node, blockchain
 
-Currently helping [@CarlsbergGBS](https://github.com/CarlsbergGBS) build some amazing products.
 
 Have an idea and need help building it? Send me an email at hello@pxbucket.com and we can chat
 
