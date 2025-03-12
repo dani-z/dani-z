@@ -13,7 +13,7 @@ https://dzaremba.com
 
 
 ### Some "fancy" stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dani-z&theme=github-light&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=2DA44E&fire=CF222E&currStreakNum=2DA44E&sideLabels=000000&sideNums=2DA44E&currStreakLabel=CF222E&dates=218BFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dani-z&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 
 
 <!--
