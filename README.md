@@ -1,9 +1,9 @@
 ## Hi there 👋 Happy to see you here
 
 ### What I do
-Founder of [Pixel Bucket](https://pxbucket.com), senior software consultant, focusing on emerging technologies and helping companies build awesome products.
+Founder of [We Are Monad](https://www.wearemonad.com), senior software consultant, focusing on emerging technologies and helping companies build awesome products.
 
-Tech tools: React, React Native, GraphQL, node, blockchain
+Tech tools: React, Nextjs, React Native, GraphQL, node, blockchain, Artificial Intelligence (AI), automations
 
 
 Have an idea and need help building it? Send me an email at hello@pxbucket.com and we can chat
