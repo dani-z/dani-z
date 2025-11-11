@@ -6,7 +6,7 @@ Founder of [We Are Monad](https://www.wearemonad.com), senior software consultan
 Tech tools: React, Nextjs, React Native, GraphQL, node, blockchain, Artificial Intelligence (AI), automations
 
 
-Have an idea and need help building it? Send me an email at hello@pxbucket.com and we can chat
+Have an idea and need help building it? Send me an email at hello@wearemonad.com and we can chat
 
 When I'm not coding I like to spend time in nature with the camera in hand.
 https://dzaremba.com
