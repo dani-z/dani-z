@@ -13,7 +13,7 @@ https://dzaremba.com
 
 
 ### Some "fancy" stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=dani-z&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
+[![dani-z's GitHub stats](https://github-readme-stats.vercel.app/api?username=dani-z)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
