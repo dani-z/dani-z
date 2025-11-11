@@ -13,7 +13,7 @@ https://dzaremba.com
 
 
 ### Some "fancy" stats
-[![dani-z's GitHub stats](https://github-readme-stats.vercel.app/api?username=dani-z)](https://github.com/anuraghazra/github-readme-stats)
+![dani-z's Stats](https://github-readme-stats.vercel.app/api?username=dani-z&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 
 
 <!--
